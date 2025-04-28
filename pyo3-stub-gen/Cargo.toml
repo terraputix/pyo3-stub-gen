@@ -32,3 +32,4 @@ test-case.workspace = true
 [features]
 default = ["numpy"]
 numpy = ["dep:numpy"]
+abi3 = ["pyo3/abi3"]
